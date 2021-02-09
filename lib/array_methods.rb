@@ -12,3 +12,4 @@ end
 
 def using_first(array)
   array[0]
+end
